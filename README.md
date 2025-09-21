@@ -8,7 +8,6 @@
 ## Description
 ### This program is a command-line tool designed to help you save and manage passwords locally; It offers several other features such as checking whether your password has been found in a leak, generating passwords, etc.  
 
-### Video Demo: [Watch Here](https://drive.google.com/file/d/1HDfDH7NEAousX-TScU9s9aEw-i_RUmIR/view?usp=sharing)
 
 ## Dependencies
 ### The program makes use of [InquirerPy](https://inquirerpy.readthedocs.io/en/latest/) and [Rich](https://rich.readthedocs.io/en/stable/), to provide the user an interface in the terminal; [InquirerPy]((https://inquirerpy.readthedocs.io/en/latest/)) is a library that allows for interactive menus such as multiple choice menus, checkboxes, and hidden user input for password entries. [Rich]((https://rich.readthedocs.io/en/stable/)) is a library that allows for colored syntax, tabular data, and themes.
